@@ -22,7 +22,7 @@ Link:
 https://www.infinityfree.net/
 
 Descrição:
-O infinity free parece bem fácil de usar e promete deploys 100% gratuitos. Entretanto, é bom salientar que cada conta possui 3 sites grátis, o que é um bom começo.
+O infinity free parece bem fácil de usar e promete deploys 100% gratuitos. Entretanto, é bom salientar que cada conta possui 3 sites grátis, o que é um bom começo. Ele também permite que você use o seu próprio domínio ou crie um subdomínio com as opções do site.
 
 
 ---
