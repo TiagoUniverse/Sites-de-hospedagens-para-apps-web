@@ -41,6 +41,16 @@ https://deta.space/from-cloud
 Descrição:
 Este e um servidor interessante e acredito que seja desse ano (2023), pois quase não encontro informações sobre como usar esta hospedagem e o próprio canal deles postou um vídeo há um mês atrás ( março de 2023). É uma plataforma difícil de usar mas que promete armazenamento ilimitado. Só não recomendo abusar antes que eles cobrem! Também não consegui colocar PHP nele, então não me serviu.
 
+
+## Web Node
+
+Link:
+https://www.webnode.com/pt/
+
+Descrição:
+Ele não tem o foco de hospedar PHP, mas menciono pela sua facilidade em criar websites e blogs. Ele gera um domínio e um template para voce usar. Recomendo!
+
+
 ---
 
 ## ☕ Desenvolvido por:
