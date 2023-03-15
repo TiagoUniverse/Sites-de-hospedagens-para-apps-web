@@ -67,6 +67,9 @@ Abaixo irei listar os sites que geram certificados SSL e de preferência, os gra
 Link:
 https://www.sslforfree.com/
 
+![image](https://user-images.githubusercontent.com/71237410/225394055-d357779d-1da2-4275-acb7-9f207d980d3d.png)
+
+
 Descrição:
 Estive procurando um certificado SSL externo para aumentar a segurança dos meus sitemas e websites. Diantes das soluções pagas eu ecnontrei este serviço. Ele oferece certificados SSL gratuitos de 90 dias (que depois precisam ser renovados) ou o plano pro deles de 1 ano. Basicamente ele promete a geração de certificados SSL gratuitos sem problemas e é o serviço que está me atendendo.
 
