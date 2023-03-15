@@ -33,6 +33,9 @@ https://www.000webhost.com/
 Descrição:
 Eu li muitas recomendações ruins a respeito dessa hospedagem grátis, principalmente por ela colocar um anúncio no seu site. Por mais incrível que pareça, esta está sendo a plataforma que estou mais tendo resultado e conseguindo fazer funcionar o meu sistema PHP com MYSQL. Esta hospedagem é ideal para PHP e possui o mesmo banco de dados de MYSQL. Com prática vai ficando fácil configurar os paineis do seu site. Uma coisa pra salientar é que você só pode ter 1 site grátis por conta com o 000WebHost, um ponto negativo pra ele.
 
+Pontos negativos:
+A hospedagem desse site é grátis e te permite ter 1 site hospedado, entretanto quando você se depara com problemas de certificados de segurança do seu website o 000webhost não te ajuda tanto. Ele é o único que não perite que você instale um certificado SSL gratuito e externo e ele não permite que você mexa nas configurações de DNS. Ele sugere que utilize a plataforma Cloudshare para gerar o certificado, mas a plataforma é paga. Outra opção do site é pegar o plano premium, que não é o  meu interesse atual.
+
 ## Deta space
 
 Link:
