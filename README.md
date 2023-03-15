@@ -56,7 +56,7 @@ Ele não tem o foco de hospedar PHP, mas menciono pela sua facilidade em criar w
 
 --
 
-## Certificados SSL 
+## 📃 Certificados SSL 
 
 Abaixo irei listar os sites que geram certificados SSL e de preferência, os gratuitos.
 
