@@ -58,6 +58,14 @@ Descrição:
 Ele não tem o foco de hospedar PHP, mas menciono pela sua facilidade em criar websites e blogs. Ele gera um domínio e um template para voce usar. Recomendo!
 
 
+## Python Anywhere
+
+Link:
+https://www.pythonanywhere.com/
+
+Descrição:
+Menção honrosa ao Python Anwywhere que já me ajudou com um projeto integrador e no registro das informações do usuário. Eu preciso testar mais este servidor, mas ele é excelente pela facilidade. Ele permite alguns deploys grátis e uma variedade de ferramentas, além de claro ser focado em hospedar aplicações de Python e semelhantes.
+
 --
 
 ## 📃 Certificados SSL 
