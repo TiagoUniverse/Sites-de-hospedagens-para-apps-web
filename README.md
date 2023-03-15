@@ -54,6 +54,25 @@ Descrição:
 Ele não tem o foco de hospedar PHP, mas menciono pela sua facilidade em criar websites e blogs. Ele gera um domínio e um template para voce usar. Recomendo!
 
 
+--
+
+## Certificados SSL 
+
+Abaixo irei listar os sites que geram certificados SSL e de preferência, os gratuitos.
+
+
+
+## SSLFREE
+
+Link:
+https://www.sslforfree.com/
+
+Descrição:
+Estive procurando um certificado SSL externo para aumentar a segurança dos meus sitemas e websites. Diantes das soluções pagas eu ecnontrei este serviço. Ele oferece certificados SSL gratuitos de 90 dias (que depois precisam ser renovados) ou o plano pro deles de 1 ano. Basicamente ele promete a geração de certificados SSL gratuitos sem problemas e é o serviço que está me atendendo.
+
+
+
+
 ---
 
 ## ☕ Desenvolvido por:
