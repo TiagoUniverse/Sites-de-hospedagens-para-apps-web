@@ -22,7 +22,7 @@ Link:
 https://www.infinityfree.net/
 
 Descrição:
-O infinity free parece bem fácil de usar e promete deploys 100% gratuitos. Entretanto, é bom salientar que cada conta possui 3 sites grátis, o que é um bom começo. Ele também permite que você use o seu próprio domínio ou crie um subdomínio com as opções do site. Entretanto, não consegui utilizá-lo para enviar o meu sistema PHP com MySQL.
+O infinity free parece bem fácil de usar e promete deploys 100% gratuitos. Entretanto, é bom salientar que cada conta possui 3 sites grátis, o que é um bom começo. Ele também permite que você use o seu próprio domínio ou crie um subdomínio com as opções do site. Uma grande vantagem do infinity free é que ele também disponibiliza certificados SSL grátis para os seus sites, dando confiabilidade e segurança pro seu site. Também ele permite usar bem as configurações de DNS do CNAME e mesmo na opção grátis ele serve bastante. Para a minha surpresa de experiência e pesquisa, o Infinity Free está me atendendo as minhas necessidades muito bem e consegui publicar o meu sistema em seu servidor, o sistema completo e conectado com o banco de dados MYSQL.
 
 
 ## 000 WebHost
@@ -32,6 +32,10 @@ https://www.000webhost.com/
 
 Descrição:
 Eu li muitas recomendações ruins a respeito dessa hospedagem grátis, principalmente por ela colocar um anúncio no seu site. Por mais incrível que pareça, esta está sendo a plataforma que estou mais tendo resultado e conseguindo fazer funcionar o meu sistema PHP com MYSQL. Esta hospedagem é ideal para PHP e possui o mesmo banco de dados de MYSQL. Com prática vai ficando fácil configurar os paineis do seu site. Uma coisa pra salientar é que você só pode ter 1 site grátis por conta com o 000WebHost, um ponto negativo pra ele.
+
+Atualização [15/03/23]:
+Anteriormente eu disse que este servidor estava me satisfazendo bem, mesmo com algumas avaliações ruins e ele estava mesmo. Foi o primeiro servidor que consegui enviar meus arquivos, importar o banco de dados e exibir para todo mundo visualizar. Entretanto, além da limitação de apenas 1 site grátis por conta e do anúncio no seu site, ele também tem dificuldades na sessão do certificado de segurança do site. Ele não oferece domínio e nem certificado SSL gratuitamente e em minhas pesquisas ele é um dos únicos que não aceita certificado SSL externos, com exceção do CloudShare, que é pago. Ou seja, permanecer com um site que tem um anúncio, que o chrome o classifica como perigoso e sem possibilidade de aplicar certificado ou domínio grátis torna este servidoros vantajoso.
+
 
 Pontos negativos:
 A hospedagem desse site é grátis e te permite ter 1 site hospedado, entretanto quando você se depara com problemas de certificados de segurança do seu website o 000webhost não te ajuda tanto. Ele é o único que não perite que você instale um certificado SSL gratuito e externo e ele não permite que você mexa nas configurações de DNS. Ele sugere que utilize a plataforma Cloudshare para gerar o certificado, mas a plataforma é paga. Outra opção do site é pegar o plano premium, que não é o  meu interesse atual.
